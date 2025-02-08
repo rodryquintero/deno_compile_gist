@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@duckdb/node-api": "npm:@duckdb/node-api@^1.2.0-alpha.13"
+  }
+}
