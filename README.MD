@@ -7,3 +7,6 @@ This error occurs when trying to bundle an `.exe` file using `Deno` and `@duckdb
 2. Run `deno install`
 3. Run `deno compile --allow-all --output app .\index.js`
 
+### Related issue
+
+https://github.com/denoland/deno/issues/23266
